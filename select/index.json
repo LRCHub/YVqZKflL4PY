@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "the Love Bug",
+  "base_artist": "m-flo loves BoA",
+  "createdAt": "2026-02-11T11:51:18.739377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_The_Love_Bug_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "m-flo & BoA",
+      "has_synced": true,
+      "path": "select/02_The_Love_Bug_m-flo_&_BoA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the Love Bug",
+      "artist": "m-flo/BoA",
+      "has_synced": true,
+      "path": "select/03_the_Love_Bug_m-flo_BoA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Love Bug Will Bite You",
+      "artist": "Vera Lynn",
+      "has_synced": false,
+      "path": "select/04_The_Love_Bug_Will_Bite_You_Vera_Lynn.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Jones feat. Vince Gill",
+      "has_synced": false,
+      "path": "select/05_The_Love_Bug_George_Jones_feat._Vince_Gill.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/06_The_Love_Bug_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/07_The_Love_Bug_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "the Love Bug",
+      "artist": "m-flo",
+      "has_synced": true,
+      "path": "select/08_the_Love_Bug_m-flo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Strait with Vince Gill",
+      "has_synced": false,
+      "path": "select/09_The_Love_Bug_George_Strait_with_Vince_Gill.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_The_Love_Bug_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Love Bug",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_The_Love_Bug_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Love Bug (Live)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_The_Love_Bug_(Live)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Love Bug Will Bite You",
+      "artist": "The Mills Brothers",
+      "has_synced": false,
+      "path": "select/13_The_Love_Bug_Will_Bite_You_The_Mills_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the Love Bug",
+      "artist": "m-flo loves BoA",
+      "has_synced": false,
+      "path": "select/pl_01_the_Love_Bug_m-flo_loves_BoA.txt"
+    }
+  ]
+}
