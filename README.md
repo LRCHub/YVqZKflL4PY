@@ -1,0 +1,140 @@
+# m-flo loves BoA – the Love Bug
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+That's the way it's gotta be…
+Oh! She got, she got
+心の形…La la la love bug
+変わらない…
+So what,what you sayin' love?
+No matter how things may be
+このままfall…
+OK,OK,What more can I say?
+Fallしてもいい…0oh wee!
+何も…Saturday
+いらない…サランヘ
+Just tell me that you want me…
+Come on!
+明日になったら忘れるよ、
+とか言ったのに
+引きずる気持ちfor you、
+何故か止まらない
+Kinda like an apple pie,
+外はドライだけど中身
+Soft ＆ sweet…
+どこからstartしよう?
+0nce again it's the cosmic
+アラモード
+おいしいfrom head to toe,
+マジgood to go…
+UH UH! All-out-all-day-all-night
+Please believe it! yeah yeah
+ウソじゃない800 call Rockwell,
+you a fly 美人!
+you wanna ride with me?
+Drop-topの9番目の雲に乗って
+Take me there
+Tell me what you think of me…
+Oh! She got, she got
+教えてほしい… La la la love bug
+どんなfashion?…
+So what, What you sayin' love?
+どんなメイクがいい?
+Wanna be your girl… OK, OK,
+What more can I say?
+Wanna be your one ＆ 0nly...
+0oh wee! 何も… Saturday,
+いらない…サランヘ
+Just tell me that you want me…
+Come on!
+Baby shake it like a
+バーテン,no taboo
+バブー 甘えるspecimen
+走ってescapeしよう
+Just the TWO 二人でof us…
+got theカギ開く
+Basement 30 Relaxationします
+International字幕付き
+Sharp like a 刃物vamonos boogie
+Horoscope いらねえ ここ入り口
+for you ＆ I それがmanifesto…
+Let's go!
+化粧 tearsで 落ちるほど感動
+la vie夢想する君 少し異常
+夜空に舞うdress silk chiffon
+サントラ付きのLOVE STORY
+stars for sure!
+For sure! 銀のhelmet baby
+かぶってseatbelt して say it
+Cuz some day, one day,
+you'll be mine…
+And make love for the very first
+Time tonight…誰も…
+気づかない…そして
+Live the life…
+ホント…やばくない?
+Under the spell…
+for real…一度talkして
+Make you mine!
+That's the way it's gotta be…
+Oh! She got, she got
+心の形…La la la love bug
+変わらない…
+So what,what you sayin' love?
+No matter how things may be
+このままfall…
+OK,OK,What more can I say?
+Fallしてもいい…0oh wee!
+何も…Saturday
+いらない…サランヘ
+Just tell me that you want me…
+Come on!
+どこ探してもno where to be found
+I'm alone, do you know
+一人の時のfeeling
+I got the bad case of
+interplanetary love jones!
+Oh noどうしてこんなに
+辛いのbaby?
+She loves me…
+He loves me not…
+OH! He loves me…
+She loves me not…
+OH! She loves me…
+He loves me not…
+OH! He loves me…
+She loves me not…
+He loves me…loves me…
+loves me not
+She loves me…loves me…
+loves me not
+M-F-L-O… needs LOVE!
+Tell me what you think of me…
+Oh! She got, she got
+教えてほしい…La la la love bug
+どんなfashion?…
+So what, What you sayin' love?
+どんなメイクがいい?
+Wanna be your girl…
+OK, OK, What more can I say?
+Wanna be your one ＆ 0nly...
+0oh wee!
+何も… Saturday,
+いらない…サランヘ
+Just tell me that you want me…
+Come on!
+That's the way it's gotta be…
+Oh! She got, she got
+心の形…La la la love bug
+変わらない…
+So what,what you sayin' love?
+No matter how things may be
+このままfall…
+OK,OK,What more can I say?
+Fallしてもいい…0oh wee!
+何も…Saturday
+いらない…サランヘ
+Just tell me that you want me…
+Come on!
+```
